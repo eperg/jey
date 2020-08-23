@@ -1,10 +1,6 @@
 # Tale
 
-[![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
 
-Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
-
-![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
 
 ## Features
 - Easy installation
@@ -128,3 +124,9 @@ Found a bug or have a suggestion? Feel free to create an issue or make a pull re
 ## License
 See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
 # tale
+
+ 
+
+Tale is a minimal Jekyll theme curated for storytellers. (c) [https://chester.how/](https://chester.how/).
+
+![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
