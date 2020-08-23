@@ -5,9 +5,6 @@ layout: post
 author: Eper Gaboni
 ---
 
-## EPER GABONI
-
-Web Designer, SEO Specialist & Web Developer
 
 Hi, I’m Eper Gaboni, Philippine based SEO Specialist, Web Designer, & Web Developer focused on crafting beautiful & user-friendly experiences.I’ve built roughly 768 user interfaces around the globe.
 
