@@ -13,9 +13,9 @@ baseurl: "/tale"
 url: https://github.com/epergaboni
 google_analytics: UA—XXXXXXXX-X
 author:
-  name: Chester How
-  url: https://chester.how
-  email: chesterhow@gmail.com
+  name: Eper Gaboni
+  url: https://github.com/eperg/tale
+  email: hi@epergaboni.com
 markdown: kramdown
 include:
 - _pages
