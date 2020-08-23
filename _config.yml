@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 Tale Sample: Minimal Jekyll theme for storytellers
-baseurl: "/tale"
+baseurl: "/"
 url: https://github.com/epergaboni
 google_analytics: UA—XXXXXXXX-X
 author:
