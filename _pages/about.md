@@ -1,7 +1,7 @@
 ---
 title: About
 permalink: "/about/"
-layout: post
+layout: home
 author: Eper Gaboni
 ---
 
